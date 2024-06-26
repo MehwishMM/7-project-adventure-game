@@ -1,6 +1,6 @@
 {
   "name": "71-adventure-game",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "this is a adventure game",
   "main": "index.js",
   "type": "module",
