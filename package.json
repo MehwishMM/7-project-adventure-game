@@ -2,9 +2,9 @@
   "name": "71-adventure-game",
   "version": "2.0.0",
   "description": "this is a adventure game",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
-  "bin": "index.js",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
